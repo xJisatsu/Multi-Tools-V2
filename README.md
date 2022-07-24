@@ -67,7 +67,7 @@ By using Jisatsu Multi Tool, you agree that you hold responsibility and accounta
 - [x] - [Roblox Game Logger]()
 - [x] - [Roblox Cookie Logger]()
 
------------------------------- Tiktok ------------------------------.
+------------------------------ Tiktok ------------------------------
 - [x] - [Tiktok View Bot]()
 - [x] - [Tiktok Share Bot]()
 - [x] - [Tiktok Like Bot]()
