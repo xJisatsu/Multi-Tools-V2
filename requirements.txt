@@ -1,0 +1,14 @@
+psutil
+selenium
+colorama
+robloxpy
+browser_cookie3
+pyautogui
+discordwebhook
+requests
+wmi
+cryptography
+discord
+pillow
+pypiwin32
+pycryptodome
