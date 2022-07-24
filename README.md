@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/996956106628800575/997027163960250450/waneella-pixel-art.gif">
 </p>
 
-<h1 align="center">[Discord & Roblox] - Multi Tool (V1.0)</h1>
+<h1 align="center">[Discord, Roblox and Tiktok] - Multi Tool (V2.0)</h1>
 <p align="center">
   <a href="https://github.com/Jixatsu/Multi-Tools/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
@@ -13,9 +13,6 @@
   </a>
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
     <img src="https://img.shields.io/badge/covarage-95%25-green">
-  </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/Rdmo1/Premium-Pack.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/xJisatsu">
     <img src="https://gpvc.arturio.dev/xJisatsu">
@@ -80,11 +77,6 @@ By using Jisatsu Multi Tool, you agree that you hold responsibility and accounta
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/977184710235140177/982875431566975066/original.gif">
 </p>
-
-```
-25 repo stars + html grabber ( one click )
-```
-
 
 ## How to Install
 
