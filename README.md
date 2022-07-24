@@ -11,7 +11,7 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="[https://github.com/AstraaDev/Discord-All-Tools-In-One](https://github.com/xJisatsu/Multi-Tools-V2)">
+  <a href="[[https://github.com/AstraaDev/Discord-All-Tools-In-One](https://github.com/xJisatsu/Multi-Tools-V2)](https://github.com/xJisatsu/Multi-Tools-V2)">
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/xJisatsu">
