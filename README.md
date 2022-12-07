@@ -75,7 +75,7 @@ By using Jisatsu Multi Tool, you agree that you hold responsibility and accounta
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/977184710235140177/982875431566975066/original.gif">
+  <img src="https://cdn.discordapp.com/attachments/1000770398931136592/1049946147231383582/waneella-pixel-art.gif">
 </p>
 
 ## How to Install
