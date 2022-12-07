@@ -23,6 +23,10 @@
   [Discord] - Multi Tool is a Script Gathering for Windows/Linux systems written in Python.
 </p>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1000770398931136592/1049946147231383582/waneella-pixel-art.gif">
+</p>
+
 ## Disclaimer
 
 |Jisatsu Multi Tool was made for Educational purposes|
@@ -72,11 +76,6 @@ By using Jisatsu Multi Tool, you agree that you hold responsibility and accounta
 - [x] - [Tiktok Share Bot]()
 - [x] - [Tiktok Like Bot]()
 - [x] - [Tiktok Comments Bot]()
-
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1000770398931136592/1049946147231383582/waneella-pixel-art.gif">
-</p>
 
 ## How to Install
 
